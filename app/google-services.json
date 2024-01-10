@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321975166929",
+    "project_id": "despachos-4c3e0",
+    "storage_bucket": "despachos-4c3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321975166929:android:0b2d13786f8dde9289e2f0",
+        "android_client_info": {
+          "package_name": "com.example.primerproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7VWq-a9rANiafEs7GMXCOAv-1JMm16s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
